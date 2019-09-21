@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  background-color: yellow;
+}
+ul {
+  background-color: pink;
+}
+
+ul li {
+  text-align: center;
+  height: 20px;
+}
+
+.add-btn {
+  margin: 20px;
+  padding: 4px;
+  background-color: blue;
+}
+#input{
+  background-color: aqua;
+}
